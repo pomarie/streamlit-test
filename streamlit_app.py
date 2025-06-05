@@ -1,4 +1,4 @@
-pip install streamlit
+pip install streamlitwefwe
 
 st.print("hello world")
 # Hello world more
